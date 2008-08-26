@@ -1,0 +1,7 @@
+A Simple FLV Player that you can remote using Javascript.  
+
+It's pretty much a simple build straight out of Flash 9.
+
+Right now, you can set source to a valid URL to an FLV.  
+
+You will need both files FLVPlayer.swf and SkinOverPlayStopSeekFullVol.swf.  
